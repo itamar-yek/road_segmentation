@@ -11,5 +11,11 @@ our segmentation algorithm assumes that the road is paved and we desire to disti
 our algorithm was tested on few frames (30) from the https://lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/?lang=en dataset.
 we achived 80% accuracy in terms of misclassification rate.
 
-https://user-images.githubusercontent.com/82041015/228685661-3f9eb9f0-5002-4951-b55f-98284c75e89c.mp4
 
+
+
+https://user-images.githubusercontent.com/82041015/228686175-e7015664-5d26-41b5-8931-2e33344aaf9b.mp4
+
+
+
+https://technionmail-my.sharepoint.com/:v:/r/personal/itamar_yek_campus_technion_ac_il/Documents/Road%20Segmentation.mp4?csf=1&web=1&e=31DBbS
