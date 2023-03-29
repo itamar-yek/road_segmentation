@@ -1,0 +1,3 @@
+please notice, 
+this containes an older and messier version of the code.
+in case of problems with the updated code, this version suppose to work.
